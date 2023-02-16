@@ -2,7 +2,7 @@
 
 typedef struct
 {
-    char str[3];
+    char str[5];
     int num;
 } NumberRept;
 
